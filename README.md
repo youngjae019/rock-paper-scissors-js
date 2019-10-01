@@ -1,0 +1,1 @@
+This is a simple Rock, Paper, Scissors game coded in JavaScript. This is also the first project for the Web Fundamentals section of The Odin Project.
